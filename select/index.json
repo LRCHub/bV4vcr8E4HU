@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Re:make",
+  "base_artist": "One OK Rock(원오크락)",
+  "createdAt": "2026-02-17T05:56:30.679711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Re-Make/Re-Model",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/01_Re-Make_Re-Model_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Re-Make\u0000re-Model",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/02_Re-Make\u0000re-Model_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Re-Make/Re-Model",
+      "artist": "Bryan Ferry",
+      "has_synced": false,
+      "path": "select/03_Re-Make_Re-Model_Bryan_Ferry.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Re‐Make\u0000Re‐Model",
+      "artist": "Bryan Ferry",
+      "has_synced": false,
+      "path": "select/04_Re‐Make\u0000Re‐Model_Bryan_Ferry.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Re‐Make\u0000Re‐Model",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/05_Re‐Make\u0000Re‐Model_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Re-Make/Re-Model (Remastered 1999)",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/06_Re-Make_Re-Model_(Remastered_1999)_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Re-Make Re-Model",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/07_Re-Make_Re-Model_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stimela (Re-Make)",
+      "artist": "2Point1; Ntate Stunna; Nthabi Sings",
+      "has_synced": true,
+      "path": "select/08_Stimela_(Re-Make)_2Point1;_Ntate_Stunna;_Nthabi_Sings.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Re-Make Re-Model",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/09_Re-Make_Re-Model_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Re-Make/Re-Model (Live)",
+      "artist": "Roxy Music",
+      "has_synced": false,
+      "path": "select/10_Re-Make_Re-Model_(Live)_Roxy_Music.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Re-Make Re-Model (Live)",
+      "artist": "Roxy Music",
+      "has_synced": false,
+      "path": "select/11_Re-Make_Re-Model_(Live)_Roxy_Music.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Re-Make",
+      "artist": "hitomi",
+      "has_synced": false,
+      "path": "select/12_Re-Make_hitomi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Re-Make/Re-Model (Remastered 1999)",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/13_Re-Make_Re-Model_(Remastered_1999)_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Coroner's Sun - Re-make By Lux Anodyca",
+      "artist": "Kirlian Camera",
+      "has_synced": false,
+      "path": "select/14_Coroner's_Sun_-_Re-make_By_Lux_Anodyca_Kirlian_Camera.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Coroner's Sun (re-make by Lux Anodyca)",
+      "artist": "Kirlian Camera",
+      "has_synced": false,
+      "path": "select/15_Coroner's_Sun_(re-make_by_Lux_Anodyca)_Kirlian_Camera.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Eclipse - 1994 Total Re-make",
+      "artist": "Kirlian Camera",
+      "has_synced": false,
+      "path": "select/16_Eclipse_-_1994_Total_Re-make_Kirlian_Camera.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Re-Make/Re-Model",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/17_Re-Make_Re-Model_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Re‐Make/Re‐Model",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/18_Re‐Make_Re‐Model_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Re-make / Re-model",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/19_Re-make___Re-model_Roxy_Music.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Re:make",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Re_make_ONE_OK_ROCK.txt"
+    }
+  ]
+}
